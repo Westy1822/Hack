@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 is this cheating?   not if you don't get caught
+=======
+is this cheating?  nani?
+who dares wins
+>>>>>>> yoot
 Nano
 opens in line text editor 
+
+
+saved? 
